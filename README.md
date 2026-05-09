@@ -1,5 +1,15 @@
 # Fleet Simulators — Fly the Cocapn Fleet
 
+
+## Meta
+
+**Domain:** constraint-theory
+**Depends on:** —
+**Depended by:** —
+**Implements:** 4 zero-dep browser simulators for the Cocapn fleet constraint ecosystem
+**Related:** —
+
+
 Four zero-dependency browser simulators for the Cocapn constraint ecosystem.
 
 ## Simulators
